@@ -29,5 +29,7 @@ Project for Targem (Unity Jun)
 д) читаемость кода (общая грамотность, соответствие названий переменных и членов
 классов их назначению и т.д.)
 
+# Result
+
 ![Screenshot TargemTest](Result/58.gif "Result 1")
 ![Screenshot TargemTest](Result/59.gif "Result 2")
